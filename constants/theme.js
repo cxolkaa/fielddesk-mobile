@@ -1,5 +1,5 @@
 ﻿/**
- * FieldDesk color tokens — dark slate / teal IT ops aesthetic.
+ * FieldDesk color tokens - dark slate / teal IT ops aesthetic.
  */
 export const colors = {
   bg: '#0F172A',

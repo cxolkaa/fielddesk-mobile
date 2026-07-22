@@ -27,7 +27,7 @@ export default function HomeScreen({ navigation }) {
       <ScrollView contentContainerStyle={styles.container}>
         <Text style={styles.brand}>FieldDesk</Text>
         <Text style={styles.subtitle}>
-          Field technician workspace — tickets, priority, and site context.
+          Field technician workspace - tickets, priority, and site context.
         </Text>
 
         <View style={styles.heroStat}>
@@ -52,7 +52,7 @@ export default function HomeScreen({ navigation }) {
         </Pressable>
 
         <Text style={styles.footnote}>
-          Demo data only — no backend required. Built for IT Support / Mobile Dev portfolios.
+          Demo data only - no backend required. Built for IT Support / Mobile Dev portfolios.
         </Text>
       </ScrollView>
     </SafeAreaView>
